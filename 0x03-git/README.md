@@ -1,2 +1,2 @@
 My fist commit
-up to date
+update readme file
